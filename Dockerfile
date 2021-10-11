@@ -1,4 +1,4 @@
-FROM php:8.0.7-alpine3.13
+FROM php:8.0-alpine3.13
 
 RUN mkdir /app
 WORKDIR /app
